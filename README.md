@@ -1,2 +1,2 @@
 # algorithms
-Algorithms for CodeForces problems
+Some sample algorithms for CodeForces problems
